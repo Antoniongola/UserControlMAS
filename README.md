@@ -1,0 +1,1 @@
+Basic fullstack application for managing users difficulties
